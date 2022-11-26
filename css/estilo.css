@@ -1,0 +1,14 @@
+html {
+    background-color:#f1af09;
+
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.escudo-logo {
+    width: 3em;
+    height: 3em;
+    border-radius: 99%;
+}
